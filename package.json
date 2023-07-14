@@ -1,0 +1,30 @@
+{
+  "name": "webloaf",
+  "version": "1.0.0",
+  "description": "A lightweight toast notification module using petite-vue",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "toast",
+    "notification",
+    "petite-vue"
+  ],
+  "author": "Travis Wade",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/reactivity": "^3.3.4",
+    "petite-vue": "^0.4.1",
+    "tslib": "^2.6.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "@rollup/plugin-typescript": "^11.1.2",
+    "rollup": "^3.26.2",
+    "typescript": "^5.1.6"
+  }
+}
