@@ -1,8 +1,8 @@
-# Webloaf Petite
+# Webloaf
 
-Toastify Petite is a lightweight, easy-to-use toast notification module built with [petite-vue](https://github.com/vuejs/petite-vue).
+Webloaf is a lightweight, easy-to-use toast notification module built with [petite-vue](https://github.com/vuejs/petite-vue).
 
-This module provides a simple interface for displaying toast notifications in a web application and is intended for use in no-code environemnts like Webflow. It creates a toast container and automatically appends it to the DOM when the page loads.
+This module provides a simple interface for displaying toast notifications in a web application and is intended for use in no-code environemnts like Webflow. When initialized, it creates a container attached to the dom for receiving and and displaying toast notifications.
 
 ## Features
 
