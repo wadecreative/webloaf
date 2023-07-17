@@ -1,4 +1,5 @@
 # Webloaf
+This is a casual project of mine that is at its earliest stages.
 
 Webloaf is a lightweight, easy-to-use toast notification module built with [petite-vue](https://github.com/vuejs/petite-vue).
 
