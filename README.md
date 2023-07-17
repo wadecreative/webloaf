@@ -15,4 +15,4 @@ This module provides a simple interface for displaying toast notifications in a 
 Install the package via npm:
 
 ```bash
-npm install toastify-petite
+npm install webloaf
